@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>menu_hover.png</file>
+        <file>menu_normal.png</file>
+        <file>menu_pressed.png</file>
+        <file>handle.png</file>
+    </qresource>
+</RCC>
